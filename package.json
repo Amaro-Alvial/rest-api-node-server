@@ -1,0 +1,12 @@
+{
+  "name": "rest-api-node-server",
+  "version": "1.0.0",
+  "description": "REST API'S con EXPRESS y TypeScript",
+  "license": "ISC",
+  "author": "Amaro Alvial @Amaro-Alvial",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
